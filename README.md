@@ -1,6 +1,3 @@
-Here’s a sample **README.md** file for your Snake Game project. This README file is written in Markdown and provides all the necessary details about your project.
-
----
 
 # Snake Game with Python
 
